@@ -4,12 +4,11 @@
 
 A simple, tablet-first space explorer for Bar. Tap original **pixel-art** objects to open large **real spacecraft/telescope photographs**. Each of the **17 destinations** has its name and one short interesting sentence **written and spoken in English and Hebrew**. Opening an object automatically plays the English name and fact, then the Hebrew name and fact. Replay either language independently or both, stop narration, move between objects, or tap the photograph to enlarge it further.
 
-There are two maps:
+**Version 1.1 shows one continuous star map.** The Sun sits at the center of eight nested orbit paths, with each planet on its own orbit in the correct order. The Moon has a small orbit around Earth. Pluto, an asteroid, a comet, stars, the Orion Nebula, the Milky Way and Andromeda are all visible on this same canvas, without category tabs or tile panels. Drag to pan, use +/− to zoom, or choose **כל החלל / Show all** to fit everything. Tablet portrait and landscape have purpose-built sky-chart arrangements; narrow/short screens can pan and zoom within the same map.
 
-- **Solar system:** Sun, Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune, Moon, Pluto, asteroid Bennu and comet 67P. The eight planets are numbered in order from the Sun. The Moon, Pluto, asteroid and comet have separate type labels and a dashed border; they are not counted as planets.
-- **Deep space:** stars (Pleiades), a nebula (Orion), the Milky Way photographed from inside our galaxy, and another galaxy (Andromeda).
+The layout fills the tablet viewport without page scrolling. Both translations remain visible in each photo pop-up. The chart is illustrative: object sizes, orbital spacing, orientation and object locations are not to scale, and galaxies are vastly beyond the Solar System. Discoveries, camera position and settings stay on this device.
 
-The layout fills landscape and portrait tablets without scrolling. Both translations remain visible in the photo pop-up. Small phones use a compact board. The illustrations show representative objects; sizes, spacing and locations are not to scale. There are no mini-games, timers or accounts. Discoveries and settings stay on this device.
+**Sun pronunciation fix:** the old isolated `Sun.` was expanded by the voice engine to “Sunday.” The replacement recording starts with the complete astronomical sentence, “The Sun is a star that gives Earth light and warmth.” Automatic speech recognition confirmed the old and new audio; see [AUDIO_VERIFICATION.md](AUDIO_VERIFICATION.md). The incorrect recording is removed from the published assets.
 
 ## Photographs and science
 
@@ -23,7 +22,7 @@ Use **התקנה**. Chrome/Edge show a native installation prompt when available
 
 The first complete download caches the entire app, all 17 photographs, pixel sprites and **34 name-and-fact recordings** (17 in each language). The footer confirms readiness. After that, exploration, photos and speech work offline. No external fonts, runtime speech API or analytics are used.
 
-Online startups check for a newer published version. There is no recurring, focus, visibility or reconnection update polling. An incomplete release never replaces a complete cached version. An open picture or active recording defers activation until a safe boundary; closing the picture allows an automatic reload. Discovered objects, last destination, map zone and mute setting survive upgrades. Apps cannot fetch updates while closed.
+Online startups check for a newer published version. There is no recurring, focus, visibility or reconnection update polling. An incomplete release never replaces a complete cached version. An open picture or active recording defers activation until a safe boundary; closing the picture allows an automatic reload. Discovered objects, last destination, map position/zoom and mute setting survive upgrades. Existing saves from the old two-category layout keep their discoveries and sound settings. Apps cannot fetch updates while closed.
 
 The app has its own manifest scope/ID, `bar-space-` cache prefix and `bar-space-v1` save key, isolated from the other Bar games. Saves do not sync across devices/profiles; clearing browser data removes them.
 
@@ -47,7 +46,7 @@ node scripts/check-layout.mjs
 node scripts/browser-check.mjs
 ```
 
-The layout script checks both maps and all 17 written bilingual pop-ups at ten desktop/tablet/phone sizes. The functional script exercises all recordings, photos, replay, stop, photo zoom, save restoration, installation instructions, offline use and a real atomic service-worker upgrade. It uses disposable browser storage, temporarily builds a second release, and restores the original afterward. Screenshots/logs belong in ignored `artifacts/`. Physical OS installation requires a device check.
+The layout script checks the unified map, all 17 reachable objects and labels, eight orbital paths and every bilingual pop-up at ten desktop/tablet/phone sizes. The functional script exercises all recordings, photos, map panning/zoom/fit, replay, stop, photo zoom, save restoration, installation instructions, offline use and a real atomic service-worker upgrade. It uses disposable browser storage, temporarily builds a second release, and restores the original afterward. Screenshots/logs belong in ignored `artifacts/`. Physical OS installation requires a device check.
 
 Push source to `main`, then `npm run deploy` to test/build, publish `dist/` to `gh-pages` and configure GitHub Pages with authenticated GitHub CLI.
 
