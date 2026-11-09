@@ -12,3 +12,11 @@
 @media(max-width:600px){.app{grid-template-rows:61px minmax(0,1fr) 24px}.map-title{font-size:16px}.map-title small{font-size:7px;letter-spacing:1px}.map-controls button{height:39px;min-width:41px;font-size:25px}.map-controls [data-fit]{font-size:14px;min-width:94px;padding:4px 10px}.map-instruction{font-size:10px;top:6px;right:5px}.map-instruction span{font-size:8px}.map-object .en,.map-object .he{font-size:34px}.map-object.is-sun .en,.map-object.is-sun .he{font-size:38px}}
 @media(max-height:500px){.app{grid-template-rows:54px minmax(0,1fr) 22px}.map-title{font-size:16px}.map-title small{font-size:7px}.map-instruction{font-size:10px}.map-controls{bottom:5px;padding:3px}.map-controls button{height:33px;min-width:37px;font-size:23px}.map-controls [data-fit]{min-width:90px;font-size:13px}.map-controls small{font-size:8px}}
 .map-controls{left:9px;transform:none}
+.pluto-orbit{fill:none;stroke:#dba7e9;stroke-width:2.8;stroke-dasharray:11 8;opacity:.7}
+.map-object .en,.map-object .he{font-size:38px}.map-object.is-sun .en{font-size:46px}.map-object.is-sun .he{font-size:44px}
+@media(max-width:600px){.map-object .en,.map-object .he{font-size:38px}}
+@media(max-width:800px){.object-heading.long{display:flex;flex-direction:column;align-items:center;gap:2px}.object-heading.long h2{font-size:31px}.object-heading.long .he{font-size:28px}.fact-block[lang=he]{order:0}}
+@media(max-width:360px){.object-heading.long h2{font-size:27px}.object-heading.long .he{font-size:25px}}
+@media(max-width:800px) and (min-width:601px){.detail:has(.object-heading.long){grid-template-rows:38% minmax(0,1fr)}}
+@media(max-width:600px){.detail:has(.object-heading.long) .photo-side{height:29%}}
+@media(max-height:500px){.detail:has(.object-heading.long) .photo-side{height:100%}}
