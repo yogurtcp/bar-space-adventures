@@ -1,0 +1,186 @@
+{
+  "engine": "BlueTTS 2.5",
+  "voice": "libri_female_6147",
+  "engineCommit": "0e38dbf08ed53f85863d1eab092bd9572c53a503",
+  "modelRevision": "468da64b4a51795a7594a3637727dbaf876b6df2",
+  "g2pRevision": "679c56ca449d41873fb8ff7711ddf7563d28198f",
+  "steps": 16,
+  "cfgScale": 4.0,
+  "speed": 0.8,
+  "sampleRate": 44100,
+  "seed": 20261025,
+  "recipe": "blue-hebrew-female-v1",
+  "records": {
+    "שמש. השמש היא כוכב שנותן לכדור הארץ אור וחום.": {
+      "input": "שמש. השמש היא כוכב שנותן לכדור הארץ אור וחום.",
+      "ipa": "ʃˈemeʃ. haʃˈemeʃ hi koχˈav ʃenotˈen lekadˈuʁ haˈaʁets oʁ veχˈom.",
+      "method": "explicit-space-pronunciation",
+      "path": "audio/he/blue-aedc162b77895ce61077.mp3",
+      "seed": 20261025,
+      "seconds": 3.8312925170068026,
+      "peak": 0.9221620559692383,
+      "sampleRate": 44100
+    },
+    "כוכב חמה. כוכב חמה הוא כוכב הלכת הקרוב ביותר לשמש.": {
+      "input": "כוכב חמה. כוכב חמה הוא כוכב הלכת הקרוב ביותר לשמש.",
+      "ipa": "koχˈav χamˈa. koχˈav χamˈa hu koχˈav halˈeχet hakarˈov bejotˈeʁ laʃˈemeʃ.",
+      "method": "explicit-space-pronunciation",
+      "path": "audio/he/blue-cc3fb8b652b03dee621c.mp3",
+      "seed": 20261025,
+      "seconds": 4.73687074829932,
+      "peak": 0.8901244401931763,
+      "sampleRate": 44100
+    },
+    "נוגה. נוגה הוא כוכב הלכת החם ביותר במערכת השמש שלנו.": {
+      "input": "נוגה. נוגה הוא כוכב הלכת החם ביותר במערכת השמש שלנו.",
+      "ipa": "nˈoga. nˈoga hu koχˈav halˈeχet haχˈam bejotˈeʁ bemaʔaʁˈeχet haʃˈemeʃ ʃelˈanu.",
+      "method": "explicit-space-pronunciation",
+      "path": "audio/he/blue-8bebf600be326a71e544.mp3",
+      "seed": 20261025,
+      "seconds": 5.154829931972789,
+      "peak": 0.9185552000999451,
+      "sampleRate": 44100
+    },
+    "כדור הארץ. רוב השטח של כדור הארץ מכוסה באוקיינוסים.": {
+      "input": "כדור הארץ. רוב השטח של כדור הארץ מכוסה באוקיינוסים.",
+      "ipa": "kadˈuʁ haˈaʁets. ʁˈov haʃˈetaχ ʃel kadˈuʁ haˈaʁets meχusˈe beʔokjˈanusim.",
+      "method": "explicit-space-pronunciation",
+      "path": "audio/he/blue-e3ef675074bcfefdafe3.mp3",
+      "seed": 20261025,
+      "seconds": 4.388571428571429,
+      "peak": 0.7965501546859741,
+      "sampleRate": 44100
+    },
+    "מאדים. חלודה בסלעים ובאבק גורמת למאדים להיראות אדום.": {
+      "input": "מאדים. חלודה בסלעים ובאבק גורמת למאדים להיראות אדום.",
+      "ipa": "maʔadˈim. χaludˈa baslaʔˈim uvaʔavˈak goʁˈemet lemaʔadˈim leheʁaʔˈot adˈom.",
+      "method": "explicit-space-pronunciation",
+      "path": "audio/he/blue-0f9fe6ccb689a1014e1c.mp3",
+      "seed": 20261025,
+      "seconds": 5.015510204081632,
+      "peak": 0.7500308156013489,
+      "sampleRate": 44100
+    },
+    "צדק. צדק הוא כוכב הלכת הגדול ביותר במערכת השמש שלנו.": {
+      "input": "צדק. צדק הוא כוכב הלכת הגדול ביותר במערכת השמש שלנו.",
+      "ipa": "tsˈedek. tsˈedek hu koχˈav halˈeχet hagadˈol bejotˈeʁ bemaʔaʁˈeχet haʃˈemeʃ ʃelˈanu.",
+      "method": "explicit-space-pronunciation",
+      "path": "audio/he/blue-64b373db6f739b237474.mp3",
+      "seed": 20261025,
+      "seconds": 5.154829931972789,
+      "peak": 0.9309878349304199,
+      "sampleRate": 44100
+    },
+    "שבתאי. הטבעות של שבתאי עשויות מחתיכות של קרח וסלע.": {
+      "input": "שבתאי. הטבעות של שבתאי עשויות מחתיכות של קרח וסלע.",
+      "ipa": "ʃabtˈaj. hatabaʔˈot ʃel ʃabtˈaj asujˈot meχatiχˈot ʃel kˈeʁaχ vesˈela.",
+      "method": "explicit-space-pronunciation",
+      "path": "audio/he/blue-790acce3ec66d1fbc4e2.mp3",
+      "seed": 20261025,
+      "seconds": 4.249251700680272,
+      "peak": 0.9521952867507935,
+      "sampleRate": 44100
+    },
+    "אורנוס. אורנוס מסתובב על הצד בזמן שהוא מקיף את השמש.": {
+      "input": "אורנוס. אורנוס מסתובב על הצד בזמן שהוא מקיף את השמש.",
+      "ipa": "ˈuʁanus. ˈuʁanus mistovˈev al hatsˈad bizmˈan ʃehu makˈif et haʃˈemeʃ.",
+      "method": "explicit-space-pronunciation",
+      "path": "audio/he/blue-47bd2df759e6da408d98.mp3",
+      "seed": 20261025,
+      "seconds": 4.179591836734694,
+      "peak": 0.8208413124084473,
+      "sampleRate": 44100
+    },
+    "נפטון. נפטון הוא כוכב הלכת הרחוק ביותר מהשמש.": {
+      "input": "נפטון. נפטון הוא כוכב הלכת הרחוק ביותר מהשמש.",
+      "ipa": "neptˈun. neptˈun hu koχˈav halˈeχet haʁaχˈok bejotˈeʁ mehaʃˈemeʃ.",
+      "method": "explicit-space-pronunciation",
+      "path": "audio/he/blue-e05b51a981812030c734.mp3",
+      "seed": 20261025,
+      "seconds": 3.8312925170068026,
+      "peak": 0.8271048665046692,
+      "sampleRate": 44100
+    },
+    "פלוטו. פלוטו הוא כוכב לכת ננסי קטן וקרחי.": {
+      "input": "פלוטו. פלוטו הוא כוכב לכת ננסי קטן וקרחי.",
+      "ipa": "plˈuto. plˈuto hu koχˈav lˈeχet nanasˈi katˈan vekaʁχˈi.",
+      "method": "explicit-space-pronunciation",
+      "path": "audio/he/blue-2c515d046aae28fb5b86.mp3",
+      "seed": 20261025,
+      "seconds": 3.3436734693877552,
+      "peak": 0.8645002245903015,
+      "sampleRate": 44100
+    },
+    "ירח. הירח זוהר כי הוא מחזיר אור מהשמש.": {
+      "input": "ירח. הירח זוהר כי הוא מחזיר אור מהשמש.",
+      "ipa": "jˈaʁeaχ. hajˈaʁeaχ zohˈeʁ ki hu maχzˈiʁ oʁ mehaʃˈemeʃ.",
+      "method": "explicit-space-pronunciation",
+      "path": "audio/he/blue-3834e5921f652f94e107.mp3",
+      "seed": 20261025,
+      "seconds": 3.5526530612244898,
+      "peak": 0.9029709696769714,
+      "sampleRate": 44100
+    },
+    "אסטרואיד. אסטרואידים הם גופים סלעיים שמקיפים את השמש.": {
+      "input": "אסטרואיד. אסטרואידים הם גופים סלעיים שמקיפים את השמש.",
+      "ipa": "asteʁoʔˈid. asteʁoʔˈidim hem gufˈim selaʔijˈim ʃemakifˈim et haʃˈemeʃ.",
+      "method": "explicit-space-pronunciation",
+      "path": "audio/he/blue-fa9ccfbc7ff9b254e930.mp3",
+      "seed": 20261025,
+      "seconds": 4.179591836734694,
+      "peak": 0.5786166191101074,
+      "sampleRate": 44100
+    },
+    "שביט. כששביט מתקרב לשמש, יכול להופיע לו זנב.": {
+      "input": "שביט. כששביט מתקרב לשמש, יכול להופיע לו זנב.",
+      "ipa": "ʃavˈit. kʃeʃavˈit mitkaʁˈev laʃˈemeʃ jaχˈol lehoˈfia lo zanˈav.",
+      "method": "explicit-space-pronunciation",
+      "path": "audio/he/blue-bc5ca93d78ef6ce6cfa8.mp3",
+      "seed": 20261025,
+      "seconds": 3.6919727891156464,
+      "peak": 0.8049129247665405,
+      "sampleRate": 44100
+    },
+    "כוכבים. כוכבים הם כדורים ענקיים של גז חם שמייצרים אור משלהם.": {
+      "input": "כוכבים. כוכבים הם כדורים ענקיים של גז חם שמייצרים אור משלהם.",
+      "ipa": "koχavˈim. koχavˈim hem kadurˈim anakijˈim ʃel gˈaz χˈam ʃemejatsʁˈim oʁ miʃelahˈem.",
+      "method": "explicit-space-pronunciation",
+      "path": "audio/he/blue-b1a7adcff188918b47c1.mp3",
+      "seed": 20261025,
+      "seconds": 5.015510204081632,
+      "peak": 0.7852153778076172,
+      "sampleRate": 44100
+    },
+    "ערפילית. ערפילית היא ענן ענקי של גז ואבק בחלל.": {
+      "input": "ערפילית. ערפילית היא ענן ענקי של גז ואבק בחלל.",
+      "ipa": "aʁpilˈit. aʁpilˈit hi anˈan anakˈi ʃel gˈaz veʔavˈak baχalˈal.",
+      "method": "explicit-space-pronunciation",
+      "path": "audio/he/blue-5642a29bf5d55ce7cd7d.mp3",
+      "seed": 20261025,
+      "seconds": 3.900952380952381,
+      "peak": 0.835202693939209,
+      "sampleRate": 44100
+    },
+    "שביל החלב. מערכת השמש שלנו נמצאת בתוך גלקסיית שביל החלב.": {
+      "input": "שביל החלב. מערכת השמש שלנו נמצאת בתוך גלקסיית שביל החלב.",
+      "ipa": "ʃvˈil heχalˈav. maʔaʁˈeχet haʃˈemeʃ ʃelˈanu nimtsˈet betˈoχ galaksijˈat ʃvˈil heχalˈav.",
+      "method": "explicit-space-pronunciation",
+      "path": "audio/he/blue-aeb70cf2a43c40a565e7.mp3",
+      "seed": 20261025,
+      "seconds": 5.294149659863946,
+      "peak": 0.9227176904678345,
+      "sampleRate": 44100
+    },
+    "אנדרומדה. אנדרומדה היא הגלקסיה הגדולה הקרובה ביותר לשביל החלב שלנו.": {
+      "input": "אנדרומדה. אנדרומדה היא הגלקסיה הגדולה הקרובה ביותר לשביל החלב שלנו.",
+      "ipa": "andʁomˈeda. andʁomˈeda hi hagalˈaksija hagdolˈa hakʁovˈa bejotˈeʁ liʃvˈil heχalˈav ʃelˈanu.",
+      "method": "explicit-space-pronunciation",
+      "path": "audio/he/blue-b6cd374a813c04f820a1.mp3",
+      "seed": 20261025,
+      "seconds": 5.572789115646258,
+      "peak": 0.972274661064148,
+      "sampleRate": 44100
+    }
+  },
+  "previousPaths": []
+}

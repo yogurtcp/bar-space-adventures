@@ -1,0 +1,202 @@
+{
+  "sun": {
+    "nasaId": "GSFC_20171208_Archive_e002035",
+    "source": "https://images.nasa.gov/details/GSFC_20171208_Archive_e002035",
+    "download": "http://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002035/GSFC_20171208_Archive_e002035~orig.jpg",
+    "title": "Full disk view of the sun June 21, 2010",
+    "description": "Full disk view of the sun from SDO, telescope AIA 335 on June 2, 2010.  To learn more about SDO go to:  <a href=\"http://sdo.gsfc.nasa.gov/\" rel=\"nofollow\">sdo.gsfc.nasa.gov/</a>  <b><a href=\"http://www.nasa.gov/centers/goddard/home/index.html\" rel=\"nofollow\">NASA Goddard Space Flight Center</a></b>  is home to the nation's largest organization of combined scientists, engineers and technologists that build spacecraft, instruments and new technology to study the Earth, the sun, our solar system, and the universe.",
+    "creator": "GSFC",
+    "originalSize": [
+      1024,
+      1024
+    ]
+  },
+  "mercury": {
+    "nasaId": "PIA15162",
+    "source": "https://images.nasa.gov/details/PIA15162",
+    "download": "http://images-assets.nasa.gov/image/PIA15162/PIA15162~medium.jpg",
+    "title": "Mercury Globe: 0°N, 180°E",
+    "description": "Mercury Globe: 0°N, 180°E",
+    "creator": "NASA/Johns Hopkins University Applied Physics Laboratory/Carnegie Institution of Washington",
+    "originalSize": [
+      1280,
+      1280
+    ]
+  },
+  "venus": {
+    "source": "https://science.nasa.gov/venus/venus-facts/",
+    "download": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2024/03/venus-mariner-10-pia23791-fig2.jpg?w=1096&h=1096&fit=clip&crop=faces%2Cfocalpoint",
+    "title": "Venus from Mariner 10, single processed view",
+    "creator": "NASA / JPL-Caltech",
+    "description": "Single newly processed Mariner 10 image of the cloudy globe of Venus.",
+    "originalSize": [
+      1096,
+      1096
+    ]
+  },
+  "earth": {
+    "nasaId": "PIA00122",
+    "source": "https://images.nasa.gov/details/PIA00122",
+    "download": "http://images-assets.nasa.gov/image/PIA00122/PIA00122~orig.jpg",
+    "title": "Earth - India and Australia",
+    "description": "This color image of the Earth was obtained by NASA’s Galileo spacecraft on Dec. 11, 1990, when the spacecraft was about 1.5 million miles from the Earth.  http://photojournal.jpl.nasa.gov/catalog/PIA00122",
+    "creator": "NASA/JPL",
+    "originalSize": [
+      800,
+      800
+    ]
+  },
+  "mars": {
+    "nasaId": "PIA00407",
+    "source": "https://images.nasa.gov/details/PIA00407",
+    "download": "http://images-assets.nasa.gov/image/PIA00407/PIA00407~medium.jpg",
+    "title": "Global Color Views of Mars",
+    "description": "Global Color Views of Mars  http://photojournal.jpl.nasa.gov/catalog/PIA00407",
+    "creator": "NASA/JPL/USGS",
+    "originalSize": [
+      1280,
+      1280
+    ]
+  },
+  "jupiter": {
+    "nasaId": "PIA22946",
+    "source": "https://images.nasa.gov/details/PIA22946",
+    "download": "http://images-assets.nasa.gov/image/PIA22946/PIA22946~medium.jpg",
+    "title": "Jupiter Marble",
+    "description": "This striking view of Jupiter's Great Red Spot and turbulent southern hemisphere was captured by NASA's Juno spacecraft as it performed a close pass of the gas giant planet.  Juno took the three images used to produce this color-enhanced view on Feb. 12, 2019, between 9:59 a.m. PST (12:59 p.m. EST) and 10:39 p.m. PST (1:39 p.m. EST), as the spacecraft performed its 17th science pass of Jupiter. At the time the images were taken, the spacecraft was between 16,700 miles (26,900 kilometers) and 59,300 miles (95,400 kilometers) above Jupiter's cloud tops, above a southern latitude spanning from about 40 to 74 degrees. https://photojournal.jpl.nasa.gov/catalog/PIA22946  Enhanced image by Kevin M. Gill (CC-BY) based on images provided courtesy of NASA/JPL-Caltech/SwRI/MSSS",
+    "creator": "JPL",
+    "originalSize": [
+      1280,
+      1280
+    ]
+  },
+  "saturn": {
+    "nasaId": "PIA11141",
+    "source": "https://images.nasa.gov/details/PIA11141",
+    "download": "http://images-assets.nasa.gov/image/PIA11141/PIA11141~medium.jpg",
+    "title": "Saturn … Four Years On",
+    "description": "Saturn … Four Years On",
+    "creator": "NASA/JPL/Space Science Institute",
+    "originalSize": [
+      1280,
+      619
+    ]
+  },
+  "uranus": {
+    "source": "https://science.nasa.gov/uranus/facts/",
+    "download": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2024/03/uranus-pia18182-16x9-1.jpg?w=1920&h=1080&fit=clip&crop=faces%2Cfocalpoint",
+    "title": "Uranus from Voyager 2",
+    "creator": "NASA / JPL-Caltech",
+    "description": "Full pale blue globe of Uranus photographed by Voyager 2.",
+    "originalSize": [
+      1920,
+      1080
+    ]
+  },
+  "neptune": {
+    "nasaId": "PIA01492",
+    "source": "https://images.nasa.gov/details/PIA01492",
+    "download": "http://images-assets.nasa.gov/image/PIA01492/PIA01492~medium.jpg",
+    "title": "PIA01492",
+    "description": "This picture of Neptune was produced from the last whole planet images taken through the green and orange filters on NASA's Voyager 2 narrow angle camera. The images were taken at a range of 4.4 million miles from the planet, 4 days and 20 hours before closest approach. The picture shows the Great Dark Spot and its companion bright smudge; on the west limb the fast moving bright feature called Scooter and the little dark spot are visible. These clouds were seen to persist for as long as Voyager's cameras could resolve them. North of these, a bright cloud band similar to the south polar streak may be seen. http://photojournal.jpl.nasa.gov/catalog/PIA01492",
+    "creator": "NASA/JPL",
+    "originalSize": [
+      1280,
+      1278
+    ]
+  },
+  "pluto": {
+    "nasaId": "PIA19952",
+    "source": "https://images.nasa.gov/details/PIA19952",
+    "download": "http://images-assets.nasa.gov/image/PIA19952/PIA19952~medium.jpg",
+    "title": "The Rich Color Variations of Pluto",
+    "description": "NASA's New Horizons spacecraft captured this high-resolution enhanced color view of Pluto on July 14, 2015. The image combines blue, red and infrared images taken by the Ralph/Multispectral Visual Imaging Camera (MVIC). Pluto's surface sports a remarkable range of subtle colors, enhanced in this view to a rainbow of pale blues, yellows, oranges, and deep reds. Many landforms have their own distinct colors, telling a complex geological and climatological story that scientists have only just begun to decode. The image resolves details and colors on scales as small as 0.8 miles (1.3 kilometers).  http://photojournal.jpl.nasa.gov/catalog/PIA19952",
+    "creator": "NASA/Johns Hopkins University Applied Physics Laboratory/Southwest Research Institute",
+    "originalSize": [
+      1280,
+      1280
+    ]
+  },
+  "moon": {
+    "nasaId": "PIA00405",
+    "source": "https://images.nasa.gov/details/PIA00405",
+    "download": "http://images-assets.nasa.gov/image/PIA00405/PIA00405~medium.jpg",
+    "title": "Earth Moon",
+    "description": "NASA Galileo spacecraft took this image of Earth moon on December 7, 1992 on its way to explore the Jupiter system in 1995-97. The distinct bright ray crater at the bottom of the image is the Tycho impact basin.  http://photojournal.jpl.nasa.gov/catalog/PIA00405",
+    "creator": "NASA/JPL/USGS",
+    "originalSize": [
+      1280,
+      1280
+    ]
+  },
+  "asteroid": {
+    "source": "https://science.nasa.gov/resource/bennu-mosaic/",
+    "download": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/09/b/bennu_dec10.jpg?w=1024&h=968&fit=clip&crop=faces%2Cfocalpoint",
+    "title": "Bennu Mosaic",
+    "creator": "NASA / Goddard / University of Arizona",
+    "description": "Mosaic of 12 OSIRIS-REx PolyCam photographs of asteroid Bennu, collected December 2, 2018.",
+    "originalSize": [
+      1024,
+      968
+    ]
+  },
+  "comet": {
+    "nasaId": "PIA18899",
+    "source": "https://images.nasa.gov/details/PIA18899",
+    "download": "http://images-assets.nasa.gov/image/PIA18899/PIA18899~medium.jpg",
+    "title": "Rosetta Comet",
+    "description": "This composite is a mosaic comprising four individual Rosetta NAVCAM images taken from 19 miles 31 kilometers from the center of comet 67P/Churyumov-Gerasimenko on Nov. 20, 2014.",
+    "creator": "ESA/Rosetta/NAVCAM",
+    "originalSize": [
+      1080,
+      1280
+    ]
+  },
+  "stars": {
+    "nasaId": "PIA09262",
+    "source": "https://images.nasa.gov/details/PIA09262",
+    "download": "http://images-assets.nasa.gov/image/PIA09262/PIA09262~medium.jpg",
+    "title": "Pink Pleiades",
+    "description": "The Seven Sisters, also known as the Pleiades star cluster, seem to float on a bed of feathers in a new infrared image from NASA Spitzer Space Telescope. Clouds of dust sweep around the stars, swaddling them in a cushiony veil. ",
+    "creator": "NASA/JPL-Caltech",
+    "originalSize": [
+      1280,
+      1280
+    ]
+  },
+  "nebula": {
+    "source": "https://svs.gsfc.nasa.gov/30775/",
+    "download": "https://svs.gsfc.nasa.gov/vis/a030000/a030700/a030775/orion_nebula_vis_ir-hst_sst-3240x3240_print.jpg",
+    "title": "Hubble and Spitzer Composite of the Orion Nebula",
+    "creator": "NASA / ESA / T. Megeath (U. Toledo) / M. Robberto (STScI)",
+    "description": "Real composite of Hubble visible-light and Spitzer infrared observations. Infrared light is represented by visible colors; not a 3D visualization.",
+    "originalSize": [
+      1024,
+      1024
+    ]
+  },
+  "milkyway": {
+    "nasaId": "iss073e0982261",
+    "source": "https://images.nasa.gov/details/iss073e0982261",
+    "download": "http://images-assets.nasa.gov/image/iss073e0982261/iss073e0982261~medium.jpg",
+    "title": "The Milky Way spans the night sky above a yellow-green airglow",
+    "description": "iss073e0982261 (Oct. 24, 2025) --- The Milky Way spans the night sky above a yellow-green airglow that blankets the Atlantic Ocean, midway between South America and Africa. This long-exposure photograph was taken from the International Space Station as it orbited 260 miles above Earth at approximately 11:19 p.m. local time.",
+    "creator": "JSC",
+    "originalSize": [
+      1280,
+      853
+    ]
+  },
+  "andromeda": {
+    "nasaId": "PIA04921",
+    "source": "https://images.nasa.gov/details/PIA04921",
+    "download": "http://images-assets.nasa.gov/image/PIA04921/PIA04921~medium.jpg",
+    "title": "Andromeda Galaxy",
+    "description": "This image is from NASA Galaxy Evolution Explorer is an observation of the large galaxy in Andromeda, Messier 31. The Andromeda galaxy is the most massive in the local group of galaxies that includes our Milky Way.",
+    "creator": "NASA/JPL/California Institute of Technology",
+    "originalSize": [
+      1280,
+      1280
+    ]
+  }
+}
