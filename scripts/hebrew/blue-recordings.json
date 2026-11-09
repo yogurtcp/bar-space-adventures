@@ -101,14 +101,14 @@
       "peak": 0.8271048665046692,
       "sampleRate": 44100
     },
-    "פלוטו. פלוטו הוא כוכב לכת ננסי קטן וקרחי.": {
-      "input": "פלוטו. פלוטו הוא כוכב לכת ננסי קטן וקרחי.",
-      "ipa": "plˈuto. plˈuto hu koχˈav lˈeχet nanasˈi katˈan vekaʁχˈi.",
+    "פלוטו. פלוטו הוא כוכב לכת ננסי עם מסלול נטוי ומאורך.": {
+      "input": "פלוטו. פלוטו הוא כוכב לכת ננסי עם מסלול נטוי ומאורך.",
+      "ipa": "plˈuto. plˈuto hu koχˈav lˈeχet nanasˈi im maslˈul natˈuj umeʔoʁˈaχ.",
       "method": "explicit-space-pronunciation",
-      "path": "audio/he/blue-2c515d046aae28fb5b86.mp3",
+      "path": "audio/he/blue-89e6b8a581044cabac92.mp3",
       "seed": 20261025,
-      "seconds": 3.3436734693877552,
-      "peak": 0.8645002245903015,
+      "seconds": 3.9706122448979593,
+      "peak": 0.8049704432487488,
       "sampleRate": 44100
     },
     "ירח. הירח זוהר כי הוא מחזיר אור מהשמש.": {
@@ -180,7 +180,140 @@
       "seconds": 5.572789115646258,
       "peak": 0.972274661064148,
       "sampleRate": 44100
+    },
+    "חור שחור. אפילו אור לא יכול לברוח מתוך חור שחור.": {
+      "input": "חור שחור. אפילו אור לא יכול לברוח מתוך חור שחור.",
+      "ipa": "χˈoʁ ʃaχˈoʁ. afˈilu oʁ lo jaχˈol livʁˈoaχ mitˈoχ χˈoʁ ʃaχˈoʁ.",
+      "method": "explicit-space-pronunciation",
+      "path": "audio/he/blue-41ff38848910499d164e.mp3",
+      "seed": 20261025,
+      "seconds": 3.8312925170068026,
+      "peak": 0.7378575801849365,
+      "sampleRate": 44100
+    },
+    "קוואזר. האור החזק של קוואזר מגיע מגז חם סביב חור שחור ענקי.": {
+      "input": "קוואזר. האור החזק של קוואזר מגיע מגז חם סביב חור שחור ענקי.",
+      "ipa": "kvˈazaʁ. haʔˈoʁ heχazˈak ʃel kvˈazaʁ magˈia migˈaz χˈam savˈiv χˈoʁ ʃaχˈoʁ anakˈi.",
+      "method": "explicit-space-pronunciation",
+      "path": "audio/he/blue-a3f6a3e353b1a525c912.mp3",
+      "seed": 20261025,
+      "seconds": 5.712108843537415,
+      "peak": 0.8781138062477112,
+      "sampleRate": 44100
+    },
+    "ביטלג׳וז. ביטלג׳וז הוא כוכב על־ענק אדום, גדול בהרבה מהשמש.": {
+      "input": "ביטלג׳וז. ביטלג׳וז הוא כוכב על־ענק אדום, גדול בהרבה מהשמש.",
+      "ipa": "bˈiteldʒuz. bˈiteldʒuz hu koχˈav al anˈak adˈom gadˈol behaʁbˈe mehaʃˈemeʃ.",
+      "method": "explicit-space-pronunciation",
+      "path": "audio/he/blue-a5fc1f8000f12fc47718.mp3",
+      "seed": 20261025,
+      "seconds": 4.388571428571429,
+      "peak": 0.8214157819747925,
+      "sampleRate": 44100
+    },
+    "סיריוס. סיריוס הוא הכוכב הבהיר ביותר בשמי הלילה שלנו.": {
+      "input": "סיריוס. סיריוס הוא הכוכב הבהיר ביותר בשמי הלילה שלנו.",
+      "ipa": "sˈiʁjus. sˈiʁjus hu hakoχˈav habahˈiʁ bejotˈeʁ biʃmˈej halˈajla ʃelˈanu.",
+      "method": "explicit-space-pronunciation",
+      "path": "audio/he/blue-365d943959e175c2bd17.mp3",
+      "seed": 20261025,
+      "seconds": 4.249251700680272,
+      "peak": 0.959906280040741,
+      "sampleRate": 44100
+    },
+    "כוכב הצפון. כוכב הצפון עוזר לנו למצוא את הצפון בשמי הלילה.": {
+      "input": "כוכב הצפון. כוכב הצפון עוזר לנו למצוא את הצפון בשמי הלילה.",
+      "ipa": "koχˈav hatsafˈon. koχˈav hatsafˈon ozˈeʁ lˈanu limtsˈo et hatsafˈon biʃmˈej halˈajla.",
+      "method": "explicit-space-pronunciation",
+      "path": "audio/he/blue-35abe1846be54cdeaf7e.mp3",
+      "seed": 20261025,
+      "seconds": 5.224489795918367,
+      "peak": 0.9406768679618835,
+      "sampleRate": 44100
+    },
+    "לוויין. לוויינים יכולים לצלם את היבשות והאוקיינוסים של כדור הארץ.": {
+      "input": "לוויין. לוויינים יכולים לצלם את היבשות והאוקיינוסים של כדור הארץ.",
+      "ipa": "lavjˈan. lavjanˈim jeχolˈim letsalˈem et hajabaʃˈot vehaʔokjanˈusim ʃel kadˈuʁ haˈaʁets.",
+      "method": "explicit-space-pronunciation",
+      "path": "audio/he/blue-c60b0a6472f57689144c.mp3",
+      "seed": 20261025,
+      "seconds": 5.294149659863946,
+      "peak": 0.8844918012619019,
+      "sampleRate": 44100
+    },
+    "תחנת החלל. תחנת החלל היא מעבדה שמקיפה את כדור הארץ.": {
+      "input": "תחנת החלל. תחנת החלל היא מעבדה שמקיפה את כדור הארץ.",
+      "ipa": "taχanˈat heχalˈal. taχanˈat heχalˈal hi maʔabadˈa ʃemakifˈa et kadˈuʁ haˈaʁets.",
+      "method": "explicit-space-pronunciation",
+      "path": "audio/he/blue-20315aaaf4d2a14dd4ff.mp3",
+      "seed": 20261025,
+      "seconds": 5.50312925170068,
+      "peak": 0.9590904712677002,
+      "sampleRate": 44100
+    },
+    "האבל. האבל הוא טלסקופ חלל שמקיף את כדור הארץ.": {
+      "input": "האבל. האבל הוא טלסקופ חלל שמקיף את כדור הארץ.",
+      "ipa": "hˈabel. hˈabel hu teleskˈop χalˈal ʃemakˈif et kadˈuʁ haˈaʁets.",
+      "method": "explicit-space-pronunciation",
+      "path": "audio/he/blue-d199a4a16e3f34ec7cf0.mp3",
+      "seed": 20261025,
+      "seconds": 3.7616326530612243,
+      "peak": 0.9302719235420227,
+      "sampleRate": 44100
+    },
+    "ווב. ווב רואה אור תת־אדום שהעיניים שלנו לא יכולות לראות.": {
+      "input": "ווב. ווב רואה אור תת־אדום שהעיניים שלנו לא יכולות לראות.",
+      "ipa": "vˈeb. vˈeb ʁoʔˈe oʁ tat adˈom ʃehaʔejnˈajim ʃelˈanu lo jeχolˈot liʁʔˈot.",
+      "method": "explicit-space-pronunciation",
+      "path": "audio/he/blue-635bc1fe4fe11766bb0d.mp3",
+      "seed": 20261025,
+      "seconds": 4.1099319727891155,
+      "peak": 0.795128583908081,
+      "sampleRate": 44100
+    },
+    "פרסווירנס. פרסווירנס הוא רובוט בעל שישה גלגלים שחוקר את מאדים.": {
+      "input": "פרסווירנס. פרסווירנס הוא רובוט בעל שישה גלגלים שחוקר את מאדים.",
+      "ipa": "peʁsevˈiʁans. peʁsevˈiʁans hu ʁˈobot bˈaal ʃiʃˈa galgalˈim ʃeχokˈeʁ et maʔadˈim.",
+      "method": "explicit-space-pronunciation",
+      "path": "audio/he/blue-c53f169e91784d35d3e0.mp3",
+      "seed": 20261025,
+      "seconds": 5.015510204081632,
+      "peak": 0.7886415719985962,
+      "sampleRate": 44100
+    },
+    "קיוריוסיטי. קיוריוסיטי משתמש בלייזר כדי לחקור סלעים על מאדים.": {
+      "input": "קיוריוסיטי. קיוריוסיטי משתמש בלייזר כדי לחקור סלעים על מאדים.",
+      "ipa": "kjuʁiˈositi. kjuʁiˈositi miʃtamˈeʃ belˈejzeʁ kedˈej laχkˈoʁ slaʔˈim al maʔadˈim.",
+      "method": "explicit-space-pronunciation",
+      "path": "audio/he/blue-27f016bb1c8a71f7da3a.mp3",
+      "seed": 20261025,
+      "seconds": 4.667210884353741,
+      "peak": 0.8764940500259399,
+      "sampleRate": 44100
+    },
+    "אינג׳ניואיטי. אינג׳ניואיטי ביצעה את הטיסה הממונעת הראשונה בכוכב לכת אחר.": {
+      "input": "אינג׳ניואיטי. אינג׳ניואיטי ביצעה את הטיסה הממונעת הראשונה בכוכב לכת אחר.",
+      "ipa": "indʒenˈuiti. indʒenˈuiti bitsʔˈa et hatisˈa hamemunˈaat haʁiʃonˈa bekoχˈav lˈeχet aχˈeʁ.",
+      "method": "explicit-space-pronunciation",
+      "path": "audio/he/blue-3cc9229e34e8e001df30.mp3",
+      "seed": 20261025,
+      "seconds": 4.876190476190477,
+      "peak": 0.8013370037078857,
+      "sampleRate": 44100
+    },
+    "וויאג׳ר. וויאג׳ר אחת הייתה החללית הראשונה שהגיעה לחלל שבין הכוכבים.": {
+      "input": "וויאג׳ר. וויאג׳ר אחת הייתה החללית הראשונה שהגיעה לחלל שבין הכוכבים.",
+      "ipa": "vˈojadʒeʁ. vˈojadʒeʁ aχˈat hajtˈa haχalalˈit haʁiʃonˈa ʃehigˈia laχalˈal ʃebˈejn hakoχavˈim.",
+      "method": "explicit-space-pronunciation",
+      "path": "audio/he/blue-9911c61db648fc89566d.mp3",
+      "seed": 20261025,
+      "seconds": 5.642448979591837,
+      "peak": 0.929902970790863,
+      "sampleRate": 44100
     }
   },
-  "previousPaths": []
+  "previousPaths": [
+    "audio/he/blue-2c515d046aae28fb5b86.mp3",
+    "audio/he/blue-7f002a9c8bb224af5c7d.mp3"
+  ]
 }

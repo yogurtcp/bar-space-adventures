@@ -19,3 +19,9 @@ icon.convert('RGB').save(ROOT/'public/icons/maskable.png')
 rings=Image.open(ROOT/'art-source/ring-atlas.png').convert('RGBA');rw,rh=rings.size
 for i,key in enumerate(['saturn','uranus']):
  cell=rings.crop((round(i*rw/2),0,round((i+1)*rw/2),rh));cell.resize((256,256),Image.Resampling.NEAREST).save(ROOT/f'public/art/{key}.webp',lossless=True)
+# New observational objects and real mission hardware; transparent four-by-four atlas.
+expansion=Image.open(ROOT/'art-source/expansion-atlas.png').convert('RGBA');ew,eh=expansion.size
+for i,key in enumerate(['blackhole','quasar','betelgeuse','sirius','polaris','satellite','iss','hubble','webb','perseverance','curiosity','ingenuity','voyager']):
+ x=i%4;y=i//4
+ cell=expansion.crop((round(x*ew/4),round(y*eh/4),round((x+1)*ew/4),round((y+1)*eh/4)))
+ cell.resize((256,256),Image.Resampling.NEAREST).save(ROOT/f'public/art/{key}.webp',lossless=True)

@@ -1,3 +1,11 @@
+# Version 1.2: Pluto and thirty-object expansion
+
+- Seven Node tests passed, including a dedicated Pluto test: eight planet orbits stay separate from the dwarf planet; Pluto has nonzero eccentricity and orbital inclination; its drawn path and marker come from the same inclined-orbit calculation.
+- **310 browser layout checks passed** across the ten viewport sizes below: all thirty map objects and labels are reachable after Show all, without page scrolling; every bilingual photo pop-up fits.
+- **108 functional browser checks passed**: every object automatically plays Hebrew then English; independent replay, cancellation, real photos, zoom/pan/fit, all sixty MP3s decoding, offline use, saved camera/discoveries, and an actual safe service-worker upgrade.
+- Reviewed contact sheet covers thirteen new observations and hardware photographs. Stellar photos show the actual named stars; quasars and black-hole data are captioned as observations/reconstructions. Hardware photographed before launch is labeled. New atlas required a built-in imagegen transparency correction; the final extracted sprites retain real alpha.
+- Old discoveries, settings and camera positions migrate into the expanded canvas. The corrected Sun recording is retained. Pluto has a new bilingual fact and recordings; its superseded audio files are removed from the release.
+
 # Version 1.1: unified orbital map
 
 - **180 layout checks passed:** one map, all 17 objects and their full labels accessible, eight orbital paths, no page scrolling, and all bilingual photo pop-ups fit at the ten viewport sizes listed below. Planet images and label centers are checked against overlaid controls so nothing is hidden by the map toolbar.

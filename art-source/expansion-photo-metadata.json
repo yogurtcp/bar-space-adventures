@@ -1,0 +1,160 @@
+{
+  "blackhole": {
+    "source": "https://science.nasa.gov/resource/first-image-of-a-black-hole/",
+    "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/09/b/blackhole_1600.jpg?w=1600&h=932&fit=clip",
+    "credit": "Event Horizon Telescope Collaboration",
+    "he": "M87 · שחזור תצפיות בטלסקופי רדיו",
+    "en": "M87 · reconstructed radio observations",
+    "originalSize": [
+      1600,
+      931
+    ]
+  },
+  "quasar": {
+    "source": "https://science.nasa.gov/missions/hubble/nasas-hubble-gets-the-best-image-of-bright-quasar-3c-273/",
+    "url": "https://science.nasa.gov/wp-content/uploads/2023/04/potw1346a-jpg.webp?w=1280",
+    "credit": "ESA/Hubble & NASA",
+    "he": "הקוואזר 3C 273 · צילום האבל",
+    "en": "Quasar 3C 273 · Hubble observations",
+    "originalSize": [
+      1280,
+      1264
+    ]
+  },
+  "betelgeuse": {
+    "source": "https://www.eso.org/public/images/potw1726a/",
+    "url": "https://cdn.eso.org/images/thumb700x/potw1726a.jpg",
+    "credit": "ALMA (ESO/NAOJ/NRAO)/E. O’Gorman/P. Kervella",
+    "he": "ביטלג׳וז · תצפית ALMA בצבעים מעובדים",
+    "en": "Betelgeuse · processed-color ALMA image",
+    "originalSize": [
+      700,
+      700
+    ]
+  },
+  "sirius": {
+    "source": "https://esahubble.org/images/heic0516a/",
+    "url": "https://cdn.esahubble.org/archives/images/thumb700x/heic0516a.jpg",
+    "credit": "NASA, ESA, H. Bond (STScI), and M. Barstow (University of Leicester)",
+    "he": "סיריוס ובן לווייתו · צילום האבל",
+    "en": "Sirius and its companion · Hubble image",
+    "originalSize": [
+      700,
+      764
+    ]
+  },
+  "polaris": {
+    "source": "https://science.nasa.gov/asset/hubble/polaris-a-and-polaris-b/",
+    "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2006/01/STScI-01EVT7S8K23VFHYY7QKWCZF1PN.tif?w=1400",
+    "credit": "NASA, ESA, N. Evans (Harvard-Smithsonian CfA), and H. Bond (STScI)",
+    "he": "כוכב הצפון ובן לווייתו · צילום האבל",
+    "en": "Polaris and companion · Hubble image",
+    "originalSize": [
+      1400,
+      1400
+    ]
+  },
+  "satellite": {
+    "nasa": "KSC-20210811-PH-RNB01_0028",
+    "credit": "NASA / Kennedy Space Center",
+    "he": "לנדסאט 9 · צילום לפני השיגור",
+    "en": "Landsat 9 · prelaunch hardware photograph",
+    "url": "http://images-assets.nasa.gov/image/KSC-20210811-PH-RNB01_0028/KSC-20210811-PH-RNB01_0028~medium.jpg",
+    "source": "https://images.nasa.gov/details/KSC-20210811-PH-RNB01_0028",
+    "description": "Technicians begin to move the Landsat 9 spacecraft for mating operations inside the Vertical Integration Facility at Vandenberg Space Force Base in California on Aug. 11, 2021. The spacecraft will attach to the evolved expendable vehicle secondary payload adapter (ESPA), which connects Landsat 9 and the payload adapter (PMA). The PMA will then attach to the second stage of a United Launch Alliance Atlas V rocket. Landsat 9 will launch on the Atlas V from Space Launch Complex 3 at Vandenberg in September 2021. The launch is being managed by NASA’s Launch Services Program based at Kennedy Space Center, America’s multi-user spaceport. The Landsat 9 satellite will continue the nearly 50-year legacy of previous Landsat missions. It will monitor key natural and economic resources from orbit. Landsat 9 is managed by the agency’s Goddard Space Flight Center in Greenbelt, Maryland. The satellite will carry two instruments: the Operational Land Imager 2, which collects images of Earth’s landscapes in visible, near infrared and shortwave infrared light, and the Thermal Infrared Sensor 2, which measures the temperature of land surfaces. Like its predecessors, Landsat 9 is a joint mission between NASA and the U.S. Geological Survey.",
+    "title": "Landsat 9 Spacecraft Mate to EPSA",
+    "originalSize": [
+      839,
+      1280
+    ]
+  },
+  "iss": {
+    "source": "https://www.nasa.gov/international-space-station/space-station-facts-and-figures/",
+    "url": "https://www.nasa.gov/wp-content/uploads/2020/11/iss-7.jpg?w=1400",
+    "credit": "NASA",
+    "he": "תחנת החלל הבינלאומית · צילום ממסלול",
+    "en": "International Space Station · orbital photograph",
+    "originalSize": [
+      1400,
+      933
+    ]
+  },
+  "hubble": {
+    "source": "https://science.nasa.gov/mission/hubble/",
+    "url": "https://science.nasa.gov/wp-content/uploads/2023/07/hubble-space-telescope-hst-6.jpg?w=1280",
+    "credit": "NASA",
+    "he": "טלסקופ החלל האבל · צילום ממסלול",
+    "en": "Hubble Space Telescope · orbital photograph",
+    "originalSize": [
+      1280,
+      1300
+    ]
+  },
+  "webb": {
+    "source": "https://science.nasa.gov/mission/webb/",
+    "url": "https://science.nasa.gov/wp-content/uploads/2023/06/webb-flickr-47543984121-1f8e7757bc-4k-jpg.webp?w=1400",
+    "credit": "NASA",
+    "he": "טלסקופ ווב · צילום לפני השיגור",
+    "en": "Webb telescope · prelaunch hardware photograph",
+    "originalSize": [
+      1400,
+      1119
+    ]
+  },
+  "perseverance": {
+    "nasa": "PIA24542",
+    "credit": "NASA / JPL-Caltech / MSSS",
+    "he": "פרסווירנס על מאדים · פסיפס צילומים",
+    "en": "Perseverance on Mars · selfie mosaic",
+    "url": "http://images-assets.nasa.gov/image/PIA24542/PIA24542~medium.jpg",
+    "source": "https://images.nasa.gov/details/PIA24542",
+    "description": "NASA's Perseverance Mars rover took a selfie with the Ingenuity helicopter, seen here about 13 feet (3.9 meters) from the rover in this image taken April 6, 2021, the 46th Martian day, or sol, of the mission by the WATSON (Wide Angle Topographic Sensor for Operations and eNgineering) camera on the SHERLOC (Scanning Habitable Environments with Raman and Luminescence for Organics and Chemicals) instrument, located at the end of the rover's long robotic arm.  Perseverance's selfie with Ingenuity is made up of 62 individual images stitched together once they are sent back to Earth; they were taken in sequence while the rover was looking at the helicopter, then again while it was looking at the WATSON camera. The Curiosity rover takes similar selfies using a camera on its robotic arm.  Movie available at https://photojournal.jpl.nasa.gov/catalog/PIA24542",
+    "title": "Perseverance's Selfie with Ingenuity",
+    "originalSize": [
+      1280,
+      941
+    ]
+  },
+  "curiosity": {
+    "nasa": "PIA23240",
+    "credit": "NASA / JPL-Caltech / MSSS",
+    "he": "קיוריוסיטי על מאדים · פסיפס צילומים",
+    "en": "Curiosity on Mars · selfie mosaic",
+    "url": "http://images-assets.nasa.gov/image/PIA23240/PIA23240~medium.jpg",
+    "source": "https://images.nasa.gov/details/PIA23240",
+    "description": "NASA's Curiosity Mars rover took this selfie on May 12, 2019 (the 2,405th Martian day, or sol, of the mission). To the lower-left of the rover are its two recent drill holes, at targets called \"Aberlady\" and \"Kilmarie.\"  These are Curiosity's 20th and 21st drill sites.  The selfie is composed of 57 individual images taken by the rover's Mars Hand Lens Imager (MAHLI), a camera on the end of the rover's robotic arm. The images are stitched together into a panorama, and the robotic arm is digitally removed.  https://photojournal.jpl.nasa.gov/catalog/PIA23240",
+    "title": "Curiosity's Selfie at \"Aberlady\" and \"Kilmarie\"",
+    "originalSize": [
+      1051,
+      1280
+    ]
+  },
+  "ingenuity": {
+    "nasa": "PIA24581",
+    "credit": "NASA / JPL-Caltech / ASU",
+    "he": "אינג׳ניואיטי על מאדים · צילום מהרובוט",
+    "en": "Ingenuity on Mars · rover photograph",
+    "url": "http://images-assets.nasa.gov/image/PIA24581/PIA24581~orig.jpg",
+    "source": "https://images.nasa.gov/details/PIA24581",
+    "description": "NASA's Ingenuity helicopter unlocked its rotor blades, allowing them to spin freely, on April 7, 2021, the 47th Martian day, or sol, of the mission. They had been held in place since before launch, and the unlocking is one of several milestones that must be met before the helicopter can attempt the first powered, controlled flight on another planet. This image was captured by the Mastcam-Z imager on NASA's Perseverance Mars rover on the following sol, April 8, 2021.  The Ingenuity Mars Helicopter was built by JPL, which also manages this technology demonstration project for NASA Headquarters. It is supported by NASA's Science Mission Directorate, Aeronautics Research Mission Directorate, and Space Technology Mission Directorate. NASA's Ames Research Center and Langley Research Center provided significant flight performance analysis and technical assistance during Ingenuity's development.  A key objective for Perseverance's mission on Mars is astrobiology, including the search for signs of ancient microbial life. The rover will characterize the planet's geology and past climate, pave the way for human exploration of the Red Planet, and be the first mission to collect and cache Martian rock and regolith (broken rock and dust).  Subsequent NASA missions, in cooperation with ESA (European Space Agency), would send spacecraft to Mars to collect these sealed samples from the surface and return them to Earth for in-depth analysis.  The Mars 2020 Perseverance mission is part of NASA's Moon to Mars exploration approach, which includes Artemis missions to the Moon that will help prepare for human exploration of the Red Planet.  https://photojournal.jpl.nasa.gov/catalog/PIA24581",
+    "title": "Ingenuity's Blades Are Released",
+    "originalSize": [
+      1578,
+      1176
+    ]
+  },
+  "voyager": {
+    "nasa": "PIA21737",
+    "credit": "NASA / JPL-Caltech",
+    "he": "גשושית ממשפחת וויאג׳ר · בדיקות ב־1977",
+    "en": "Voyager-family spacecraft · 1977 ground test",
+    "url": "http://images-assets.nasa.gov/image/PIA21737/PIA21737~medium.jpg",
+    "source": "https://images.nasa.gov/details/PIA21737",
+    "description": "This image shows one of the Voyagers in the 25-foot space simulator chamber at NASA's Jet Propulsion Laboratory, Pasadena, California. The photo is dated April 27, 1977.  https://photojournal.jpl.nasa.gov/catalog/PIA21737",
+    "title": "Voyager Testing",
+    "originalSize": [
+      1280,
+      1221
+    ]
+  }
+}
